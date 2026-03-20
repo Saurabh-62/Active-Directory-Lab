@@ -16,8 +16,8 @@ The Active Directory Lab project aimed to establish a controlled environment for
 - Shuffle as the SOAR platform to respond to the login attempt, communicate with the analyst, and disable the Active Directory account
 
 ## Steps
-1. Setup the Active Directory Enviromnet
+1. Setup the Active Directory Environmnet
 2. Create a Splunk account to ingest logs
 3. Generate Unauthorized login attempts
 4. Create a custom Splunk query
-5. Create an automated respose with Shuffle to alert the analyst and disable compromised accounts
+5. Create an automated response with Shuffle to alert the analyst and disable compromised accounts
