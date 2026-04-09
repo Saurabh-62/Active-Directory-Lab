@@ -1,4 +1,4 @@
-# Active-Directory-Lab
+# Active-Directory-Lab (Nov 2025 – Jan 2026)
 
 ## Objective
 The Active Directory Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within Splunk, generating test telemetry to mimic real world attack scenarios. This experience was designed to deepen understanding of network security and defensive strategies.
